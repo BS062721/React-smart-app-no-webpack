@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/React-smart-app-no-webpack/static/js/runtime~main.985839d2.js"
   },
   {
-    "revision": "bbc05572b01729c60162",
-    "url": "/React-smart-app-no-webpack/static/js/main.bbc05572.chunk.js"
+    "revision": "704ffa431091fe5734f9",
+    "url": "/React-smart-app-no-webpack/static/js/main.704ffa43.chunk.js"
   },
   {
     "revision": "4be0df06b8ffc4ba8751",
     "url": "/React-smart-app-no-webpack/static/js/1.4be0df06.chunk.js"
   },
   {
-    "revision": "bbc05572b01729c60162",
+    "revision": "704ffa431091fe5734f9",
     "url": "/React-smart-app-no-webpack/static/css/main.d2e523a5.chunk.css"
   },
   {
-    "revision": "2e92f4a103c9e69dc3d6b558a1f13847",
+    "revision": "c99254b671e4c372ea8bea184e083429",
     "url": "/React-smart-app-no-webpack/index.html"
   }
 ];
