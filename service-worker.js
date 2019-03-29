@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/BS062721/React-smart-app-no-webpack/precache-manifest.99e2b59e0021f2e5660e8c422a9f7ca3.js"
+  "/React-smart-app-no-webpack/precache-manifest.7013281c4780fc1574f1d338999090d5.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/BS062721/React-smart-app-no-webpack/index.html", {
+workbox.routing.registerNavigationRoute("/React-smart-app-no-webpack/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
