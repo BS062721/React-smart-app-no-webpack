@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/React-smart-app-no-webpack/precache-manifest.09708ddb1bf4758c8114867dfce74725.js"
+  "/React-smart-app-no-webpack/precache-manifest.7130320cf634b86e1f3ee6adc5b63deb.js"
 );
 
 workbox.clientsClaim();
